@@ -1,0 +1,11 @@
+Used to identify object locators and creating XPATH and CSS and had good knowledge of page factory and pom in selenium, worked with TESTNG.
+•
+Developed test cases and test scripts in selenium web driver with java using cucumber framework.
+•
+Prepared feature file for cucumber framework and created step definitions and created runner file to run the cucumber features file.
+•
+Expertise in smoke testing, black-box testing, database testing, regression testing and back-end testing.
+•
+Used data driven framework and extracted data from external excel files using Apache POI and loaded into the variables in the scripted code.
+•
+Involved in setting up continuous integration systems using Jenkins and working knowledge with Cloud-based code repository systems like git hub.

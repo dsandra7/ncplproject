@@ -1,0 +1,9 @@
+•	
+•	Developed test cases and test scripts in Selenium web driver with Java using cucumber framework.
+•	Prepared feature file for cucumber framework and created step definitions and created runner file to run the cucumber features file.
+•	Expertise in smoke testing, black-box testing, database testing, regression testing, and back-end testing.
+•	Used data driven framework and extracted data from external excel files using Apache POI and loaded into the variables in the scripted code.
+•	Involved in setting up continuous integration systems using Jenkins and working knowledge with Cloud-based code repository systems like git hub.
+•	Integrated with continuous integration tools Jenkins for running tests on a nightly basis automatically.
+•	Anticipated in code review meetings and provided feedback for test automation scripts.
+Worked effectively with developers, agile team, and project management to achieve selenium automation, high quality, release deadlines, and QA process improvements
